@@ -1,0 +1,2 @@
+This program is a calculator that uses a UDP connection to connect to a server that processes your calculation.
+Then sends the answer back to the client.
